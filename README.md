@@ -1,14 +1,14 @@
 # CV_Assignment4
 
 # Cloth Simulation Filter
-## CSF_Workflow.py
+CSF_Workflow.py
 
 # Roughness
-## Roughness_Workflow.py
+Roughness_Workflow.py
 
 # Region Grow
-## RegionGrow_Workflow.py
+RegionGrow_Workflow.py
 
 # Plan Filter
-## ReadPCD.ipynb
+ReadPCD.ipynb
 
